@@ -416,4 +416,13 @@ Note: When you enter the city name, make sure to enter mostly common city names.
 Note that, for now it only supports following crops
 
 
+for more information visit-
+https://drive.google.com/drive/folders/13barmjZebtTzhCcVbZIPWXTPsYHSwtI3?usp=sharing
+its has full information
+
+
+The App has now been hosted, the link:-
+https://easy-farm.herokuapp.com/
+
+
 
